@@ -27,18 +27,6 @@ Welcome to my personal portfolio website! This responsive, modern site showcases
 
 ---
 
-## 📁 Project Structure
-Protfolio/
-│
-├── index.html # Main HTML file
-├── style.css # CSS styling
-├── script.js # JavaScript interactions
-├── assets/ # Images, logos, icons
-│ └── ...
-└── README.md # Project overview
-
----
-
 ## 🚀 How to Run Locally
 
 1. **Clone the repository**
