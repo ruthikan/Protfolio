@@ -48,9 +48,12 @@ This portfolio is deployed using GitHub Pages.
 - Your site will be live at: https://<username>.github.io/<repo-name>/
 ---
 
-## 📸 Screenshots
+## 📸 Screenshot 
 
 <img width="1575" height="775" alt="Screenshot (200)" src="https://github.com/user-attachments/assets/d58467f6-62da-4dbe-8fd0-14cf83d4b3b9" />
+<img width="1576" height="778" alt="Screenshot (201)" src="https://github.com/user-attachments/assets/03652395-635d-4d94-a712-03cb4ac64542" />
+<img width="1584" height="755" alt="Screenshot (202)" src="https://github.com/user-attachments/assets/7824a646-7f13-420a-8ae3-7c4f95628670" />
+
 
 ---
 ## 📬 Contact
