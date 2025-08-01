@@ -49,6 +49,7 @@ This portfolio is deployed using GitHub Pages.
 ---
 
 ## 📸 Screenshot 
+Front and Back pages of Protfolio
 
 <img width="1575" height="775" alt="Screenshot (200)" src="https://github.com/user-attachments/assets/d58467f6-62da-4dbe-8fd0-14cf83d4b3b9" />
 <img width="1576" height="778" alt="Screenshot (201)" src="https://github.com/user-attachments/assets/03652395-635d-4d94-a712-03cb4ac64542" />
