@@ -60,13 +60,13 @@ Front and Back pages of Protfolio
 ## 📬 Contact
 
 If you’d like to connect or collaborate:
-📧 Email: [ruthikanalajala007@gmail.com]
-💼 LinkedIn: https://linkedin.com/in/ruthika-nalajala-73127628b
+📧 Email: [ruthikanalajala007@gmail.com]<br>
+💼 LinkedIn: https://linkedin.com/in/ruthika-nalajala-73127628b<br>
 🧑‍💻 Portfolio: ruthikan.github.io/Protfolio
 
 ---
 
 ## ⭐ Credits
-Built with ❤️ by Ruthika Nalajala
+Built with ❤️ by Ruthika Nalajala<br>
 Inspired by modern developer portfolio designs.
 
