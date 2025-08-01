@@ -1,0 +1,148 @@
+<head>
+  <title>Instagram Influencer Growth Prediction</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: "Poppins", sans-serif;
+      background-color: #ffffff;
+      color: #333;
+      line-height: 1.6;
+    }
+
+    .container {
+      max-width: 1000px;
+      margin: 50px auto;
+      padding: 30px;
+    }
+
+    h1 {
+      font-size: 2rem;
+      text-align: center;
+      margin-bottom: 20px;
+      color: #111;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 10px;
+    }
+
+    h2 {
+      font-size: 1.5rem;
+      margin-top: 40px;
+      color: #222;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    p {
+      color: #555;
+      margin: 10px 0;
+    }
+
+    ul {
+      padding-left: 20px;
+      margin-top: 10px;
+    }
+
+    ul li {
+      margin-bottom: 8px;
+      color: #444;
+    }
+
+    section {
+      margin-bottom: 30px;
+    }
+
+    a {
+      color: #000;
+      text-decoration: underline;
+      text-underline-offset: 4px;
+      transition: color 0.3s ease;
+    }
+
+    a:hover {
+      color: #555;
+    }
+
+    .icon {
+      font-size: 1.4rem;
+    }
+
+    @media screen and (max-width: 768px) {
+      .container {
+        margin: 20px;
+        padding: 20px;
+      }
+
+      h1,
+      h2 {
+        font-size: 1.3rem;
+      }
+    }
+  </style>
+</head>
+
+
+<!-- social-media-growth.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Instagram Influencer Growth Prediction</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>📊 Instagram Influencer Growth Prediction Web App</h1>
+
+        <p>This project demonstrates the real-world application of machine learning in social media analytics. I designed and developed an interactive web application that predicts the future follower and like counts of Instagram users while also categorizing them into influencer tiers using clustering techniques.</p>
+
+        <h2>🔍 Project Overview</h2>
+        <p>The platform leverages <strong>Random Forest Regression</strong> to forecast growth metrics like followers and likes based on key inputs such as average likes per post, number of posts, and engagement rate. Additionally, <strong>KMeans Clustering</strong> is used to automatically classify influencers into one of three data-driven categories: <em>Micro Influencer, Mid-tier, or Celebrity</em>.</p>
+
+        <p>The frontend was built using <strong>Streamlit</strong>, offering a clean and intuitive interface where users can enter their current statistics and receive instant predictions, influencer categorization, and personalized recommendations. Visualizations such as bar charts and pie charts help users understand their performance metrics and potential for growth. Logical caps were included to ensure realistic and grounded predictions.</p>
+
+        <h2>⚙️ Data & Model Details</h2>
+        <ul>
+            <li>Complete data preprocessing: missing values, normalization, and feature engineering</li>
+            <li><strong>PCA not used</strong>; dimensionality managed effectively via Random Forest's robustness</li>
+            <li>Final model R² score: <strong>0.75</strong></li>
+        </ul>
+
+        <h2>🔧 Tools & Technologies Used</h2>
+        <ul>
+            <li>Python</li>
+            <li>scikit-learn (ML models)</li>
+            <li>Pandas & NumPy (data handling)</li>
+            <li>Matplotlib & Seaborn (visualization)</li>
+            <li>Streamlit (frontend development)</li>
+            <li>Joblib (model serialization)</li>
+        </ul>
+
+        <h2>🧠 Key Features</h2>
+        <ul>
+            <li>Predicts follower and like count growth over 1–5 years using Random Forest</li>
+            <li>Assigns influencer tier (Micro, Mid-tier, Celebrity) using KMeans clustering</li>
+            <li>Provides real-time, personalized recommendations</li>
+            <li>Includes data visualizations: bar charts, pie charts, summaries</li>
+            <li>Fully deployed and interactive: <a href="https://social-media-follower-prediction.streamlit.app" target="_blank">Try it here</a></li>
+        </ul>
+
+        <h2>💡 Impact</h2>
+        <p>This project showcases my ability to integrate machine learning models into full-stack solutions and deliver meaningful, user-friendly applications. It reflects skills in predictive analytics, data visualization, model deployment, and building intelligent interfaces that bridge data science and real-world impact.</p>
+
+        <a href="index.html">← Back to Portfolio</a>
+    </div>
+</body>
+</html>
+
