@@ -50,12 +50,7 @@ This portfolio is deployed using GitHub Pages.
 
 ## 📸 Screenshots
 
-
-
-
-
-
-
+<img width="1575" height="775" alt="Screenshot (200)" src="https://github.com/user-attachments/assets/d58467f6-62da-4dbe-8fd0-14cf83d4b3b9" />
 
 ---
 ## 📬 Contact
